@@ -1,0 +1,10 @@
+name: 522_indiv2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26.4
+  - pandas=2.2.1
+  - matplotlib=3.10.1
+  - scikit-learn=1.7.2
+prefix: C:\Users\School\miniforge3\envs\522_indiv2
